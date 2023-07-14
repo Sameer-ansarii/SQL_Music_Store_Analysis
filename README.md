@@ -8,3 +8,4 @@ SQL project to analyze online music store data
 
 Schema- Music Store Database
 
+![alt text](http://url/to/img.png)
